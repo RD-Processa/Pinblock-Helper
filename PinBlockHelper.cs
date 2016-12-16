@@ -9,7 +9,6 @@
 // using FluentAssertions;
 // using System.Security.Cryptography;
 // using System.Globalization
-
 void Main()
 {
 	string key = "0123456789ABCDEFFEDCBA9876543210";
