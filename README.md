@@ -1,2 +1,2 @@
 # pinblock-helper
-Demo para generar un pinblock con C# y Java
+Sencillo ejemplo de como generar un pinblock en C# y Java
