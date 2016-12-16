@@ -1,5 +1,6 @@
 // Install-Package CodeContracts
 // Install-Package FluentAssertions
+
 void Main()
 {
 	string key = "0123456789ABCDEFFEDCBA9876543210";
