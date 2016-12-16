@@ -1,5 +1,14 @@
+// Instalar estos paquetes de NuGet antes de continuar
+// https://docs.nuget.org/consume/nuget-faq
 // Install-Package CodeContracts
 // Install-Package FluentAssertions
+//
+// Agregar estas directivas a su código.
+// using System;
+// using CodeContracts;
+// using FluentAssertions;
+// using System.Security.Cryptography;
+// using System.Globalization
 
 void Main()
 {
